@@ -1,0 +1,2 @@
+InstanceName,InstanceType,OnPremPath,EBSKMSKeyID,IAMRoleARN,TagEnv,Project,RACIDR,IPConfigRA_Subnet,IPConfigRA_IP,IPConfig1_Subnet,IPConfig1_IP,IPConfig2_Subnet,IPConfig2_IP,IPConfig3_Subnet,IPConfig3_IP
+mylinuxserver1,m7i.large,*/linuxservers,awognsaskjffh29374ksfkshf9rkjhsfkshsdfk,arn:aws:iam::123123123123:instance-profile/AmazonSSMManagedInstanceCore,Test,LinuxServers,10.1.100.*,Management1,10.1.100.100,Application1,192.168.0.100,,,,
